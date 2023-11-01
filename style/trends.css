@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,900&display=swap');
+
+:root {
+    --default-color-text: black;
+}
+
+.trends-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: var(--default-color-text);
+}
+
+.trends-list {
+    display: flex;
+    flex-direction: column;
+}
